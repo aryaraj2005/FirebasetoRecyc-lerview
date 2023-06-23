@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".addActivity">
+
+    <EditText
+        android:id="@+id/addnameu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="Your name"
+        android:textSize="24sp"
+        android:textStyle="bold">
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/addcourseu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="Your Course"
+        android:textSize="24sp"
+        android:textStyle="bold">
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/addemailu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="Your email"
+        android:textSize="24sp"
+        android:textStyle="bold">
+
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/addpurlu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="Your profile url"
+        android:textSize="24sp"
+        android:textStyle="bold">
+
+    </EditText>
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:id="@+id/addbtn"
+        android:layout_marginBottom="5dp"
+        android:background="#039196"
+        android:padding="4dp"
+        android:text="Add to Firebase"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="28dp"
+        android:textStyle="bold"
+        >
+
+    </Button>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_marginTop="5dp"
+        android:background="#039196"
+        android:text="Back"
+        android:id="@+id/backbtn"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="24sp">
+
+    </Button>
+</androidx.appcompat.widget.LinearLayoutCompat>

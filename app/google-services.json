@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "290007030158",
+    "firebase_url": "https://usersignup-6143f-default-rtdb.firebaseio.com",
+    "project_id": "usersignup-6143f",
+    "storage_bucket": "usersignup-6143f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290007030158:android:db4de76e7b40ee0585acdf",
+        "android_client_info": {
+          "package_name": "com.example.firebasetorecyclerview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB89fHhIj1CJlxHyZPnpUfxMqd5qrFkRb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290007030158:android:409112254df68c9485acdf",
+        "android_client_info": {
+          "package_name": "com.example.usersignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB89fHhIj1CJlxHyZPnpUfxMqd5qrFkRb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

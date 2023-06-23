@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseToRecyclerView</string>
+    <string name="search">Search</string>
+</resources>
